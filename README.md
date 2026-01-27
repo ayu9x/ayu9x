@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ☁️ Cloud Platforms: AWS ☁️ | Azure ☁️ | GCP ☁️<br><br>📦 Containerization & Orchestration: Docker 🐳 | Kubernetes ☸️<br><br>🏗️ Infrastructure as Code: Terraform 🌍<br><br>🔁 CI/CD & Automation: GitHub Actions ⚙️<br><br>⚙️ Backend Development: Node.js 🟢<br><br>🎨 Frontend Development: React ⚛️<br><br>🗄️ Databases: MongoDB 🍃<br>
 
 
