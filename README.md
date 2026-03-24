@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- HEADER BANNER - WORKING -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:00d4ff&height=250&section=header&text=Ayush%20Raj&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=☁️%20Cloud%20Engineer%20%7C%20⚙️%20DevOps%20Intern&descAlignY=62&descColor=a78bfa&descSize=20" width="100%"/>
+<!-- HEADER BANNER — capsule-render (confirmed working) -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:00d4ff&height=250&section=header&text=Ayush%20Raj&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=Cloud%20Engineer%20%7C%20DevOps%20Intern&descAlignY=62&descColor=a78bfa&descSize=20" width="100%"/>
 
-<br/>
-
-<!-- TYPING ANIMATION - FIXED (using demolab with simpler params) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=🚀+Aspiring+DevOps+%26+Cloud+Engineer;🐳+Docker+%7C+Kubernetes+%7C+Linux;☁️+AWS+%7C+GCP+%7C+Cloudflare;🔁+CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;🏗️+Terraform+%7C+Prometheus+%7C+Grafana;🌱+Open+to+Work+—+Fresher+DevOps+Engineer" alt="Typing SVG" />
+<!-- TYPING ANIMATION — using herokuapp (more reliable on GitHub) -->
+<img src="https://readme-typing-svg.herokuapp.com/demo/typing.svg?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=Aspiring+DevOps+%26+Cloud+Engineer+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Linux+%F0%9F%90%B3;AWS+%7C+GCP+%7C+Cloudflare+%E2%98%81%EF%B8%8F;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions+%F0%9F%94%81;Terraform+%7C+Prometheus+%7C+Grafana+%F0%9F%8F%97%EF%B8%8F;Open+to+Work+%E2%80%94+Fresher+DevOps+Engineer+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -35,9 +33,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=ayu9x&label=Profile+Views&color=00d4ff&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20🟢-00cc66?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00cc66?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-India%20🇮🇳-ff6b6b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-ff6b6b?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Grad-June%202026-a78bfa?style=flat-square"/>
 
@@ -57,13 +55,13 @@ $ cat /etc/ayush.conf
 [identity]
 name              = Ayush Raj
 handle            = @ayu9x
-location          = India 🇮🇳
+location          = India
 role              = DevOps Engineer Intern @ Prevoyance IT Solutions
 education         = B.Tech CSE — Parul Institute of Technology (2026)
 
 [experience]
 current           = DevOps Intern | Jan 2025 – Present
-focus             = Docker · Kubernetes · CI/CD · AWS · Linux
+focus             = Docker, Kubernetes, CI/CD, AWS, Linux
 
 [skills]
 cloud             = AWS (EC2, IAM, S3, VPC) | GCP | Cloudflare
@@ -74,7 +72,7 @@ monitoring        = Prometheus | Grafana
 scripting         = Python | Bash
 
 [goal]
-target            = Full-time DevOps / Cloud Engineer role 🎯
+target            = Full-time DevOps / Cloud Engineer role
 motto             = Automate everything. Document always. Never stop learning.
 ```
 
@@ -84,22 +82,16 @@ motto             = Automate everything. Document always. Never stop learning.
 
 ## 💼 Work Experience
 
-<table width="100%">
-<tr>
-<td>
-
-### ⚙️ DevOps Engineer Intern
-**Prevoyance IT Solutions Pvt. Ltd., Nagpur** &nbsp;|&nbsp; 📅 Jan 2025 – Present
+| | |
+|---|---|
+| **⚙️ DevOps Engineer Intern** | 📅 Jan 2025 – Present |
+| **Prevoyance IT Solutions Pvt. Ltd., Nagpur** | |
 
 - 🐳 Deployed containerized applications using **Docker** and **Docker Compose**
 - 🔁 Built and maintained **CI/CD pipelines** using **Jenkins** and **GitHub Actions**
 - ☁️ Assisted in deploying and managing apps on **AWS EC2** instances
 - 🐧 Managed **Linux servers** — monitoring logs and troubleshooting system issues
 - 🤖 Automated deployment workflows and improved delivery efficiency
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -150,7 +142,6 @@ motto             = Automate everything. Document always. Never stop learning.
 
 <div align="center">
 
-<!-- SKILL ICONS - WORKING CDN -->
 <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
 
 <br/><br/>
@@ -174,9 +165,7 @@ motto             = Automate everything. Document always. Never stop learning.
 
 ### 🐳 Containers & Orchestration
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" />
-
 <br/>
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
@@ -186,19 +175,15 @@ motto             = Automate everything. Document always. Never stop learning.
 
 ### 🏗️ Infrastructure as Code
 <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
-
 <br/>
-
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 <br/>
 
 ### 🔁 CI/CD & Automation
-<img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,git&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git&theme=dark" />
 <br/>
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -208,9 +193,7 @@ motto             = Automate everything. Document always. Never stop learning.
 
 ### 📊 Monitoring & Observability
 <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-
 <br/>
-
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
@@ -220,9 +203,7 @@ motto             = Automate everything. Document always. Never stop learning.
 
 ### 💻 Languages & Scripting
 <img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
-
 <br/>
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
@@ -230,10 +211,8 @@ motto             = Automate everything. Document always. Never stop learning.
 <br/>
 
 ### 🗄️ Databases & Messaging
-<img src="https://skillicons.dev/icons?i=mongodb,redis,kafka&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" />
 <br/>
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -265,11 +244,11 @@ Ram Prasad College, Hajipur, Bihar
 
 ### 📜 Certifications
 
-![AWS](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals%20Workshop-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ![Cisco](https://img.shields.io/badge/Cisco%20Networking%20Fundamentals-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-![NPTEL](https://img.shields.io/badge/NPTEL%20–%20Theory%20of%20Computation-0066CC?style=flat-square&logo=google-scholar&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL%20Theory%20of%20Computation-0066CC?style=flat-square&logo=google-scholar&logoColor=white)
 
 </td>
 </tr>
@@ -279,7 +258,7 @@ Ram Prasad College, Hajipur, Bihar
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🗺️ DevOps Pipeline I Build & Learn
+## 🗺️ DevOps Pipeline
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -296,7 +275,7 @@ Ram Prasad College, Hajipur, Bihar
 ║                                                │                         ║
 ║                          ┌─────────────────────▼──────────────────┐    ║
 ║                          │     ☸️  Kubernetes Cluster (EKS/GKE)    │    ║
-║                          │   [ Pod ] ←→ [ Pod ] ←→ [ Pod ]        │    ║
+║                          │   [ Pod ] <-> [ Pod ] <-> [ Pod ]       │    ║
 ║                          │         Managed by ArgoCD GitOps        │    ║
 ║                          └──────────────┬──────────────────────────┘    ║
 ║                                         │                                ║
@@ -341,7 +320,10 @@ Ram Prasad College, Hajipur, Bihar
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayu9x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%"/>
+
+<!-- Trophies split into 2 rows of 4 for reliability -->
+<img src="https://github-profile-trophy.vercel.app/?username=ayu9x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
+
 </div>
 
 <br/>
@@ -360,17 +342,17 @@ class FresherDevOpsEngineer:
         self.status      = "Intern @ Prevoyance IT Solutions | Graduating 2026"
         self.stack       = ["Docker", "Kubernetes", "Terraform", "Python", "Bash", "AWS"]
         self.philosophy  = "Learn by doing. Break things. Fix them. Repeat."
-        self.goal        = "Land my first full-time DevOps/Cloud role 🎯"
+        self.goal        = "Land my first full-time DevOps/Cloud role"
 
     def daily_routine(self):
         return [
-            "☕  Coffee first, always",
-            "📚  Learn a new cloud concept",
-            "🐳  Spin up a Docker container",
-            "📝  Write some Terraform or Bash",
-            "🔍  Debug why K8s pod is CrashLooping",
-            "🚀  Push to GitHub & automate it",
-            "📖  Read docs till midnight",
+            "Coffee first, always",
+            "Learn a new cloud concept",
+            "Spin up a Docker container",
+            "Write some Terraform or Bash",
+            "Debug why K8s pod is CrashLooping",
+            "Push to GitHub and automate it",
+            "Read docs till midnight",
         ]
 
 me = FresherDevOpsEngineer()
@@ -382,8 +364,8 @@ print(me.philosophy)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a2e,70:0d1b4b,100:00d4ff&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-**⚡ Still learning. Always building. — [@ayu9x](https://github.com/ayu9x)**
+**Still learning. Always building. — [@ayu9x](https://github.com/ayu9x)**
 
-[![](https://visitcount.itsvg.in/api?id=ayu9x&icon=5&color=9)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=ayu9x&color=00d4ff&style=flat-square&label=Total+Visits"/>
 
 </div>
