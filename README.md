@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- HEADER BANNER — capsule-render (confirmed working) -->
+<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:00d4ff&height=250&section=header&text=Ayush%20Raj&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=Cloud%20Engineer%20%7C%20DevOps%20Intern&descAlignY=62&descColor=a78bfa&descSize=20" width="100%"/>
 
-<!-- TYPING ANIMATION — using herokuapp (more reliable on GitHub) -->
+<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com/demo/typing.svg?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=Aspiring+DevOps+%26+Cloud+Engineer+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Linux+%F0%9F%90%B3;AWS+%7C+GCP+%7C+Cloudflare+%E2%98%81%EF%B8%8F;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions+%F0%9F%94%81;Terraform+%7C+Prometheus+%7C+Grafana+%F0%9F%8F%97%EF%B8%8F;Open+to+Work+%E2%80%94+Fresher+DevOps+Engineer+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/><br/>
@@ -35,7 +35,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00cc66?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-ff6b6b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-India-ff6b6b?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Grad-June%202026-a78bfa?style=flat-square"/>
 
@@ -78,8 +78,6 @@ motto             = Automate everything. Document always. Never stop learning.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
 ## 💼 Work Experience
 
 | | |
@@ -104,10 +102,11 @@ motto             = Automate everything. Document always. Never stop learning.
 <td width="50%" valign="top">
 
 ### 🖼️ ArtGenesis — NFT Marketplace
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
 📅 Jan 2025 – May 2025
 
@@ -119,10 +118,11 @@ motto             = Automate everything. Document always. Never stop learning.
 <td width="50%" valign="top">
 
 ### 🤖 AI Contract Drafting Platform
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
 
 📅 Jan 2026 – Mar 2026
 
@@ -146,14 +146,14 @@ motto             = Automate everything. Document always. Never stop learning.
 
 <br/><br/>
 
+</div>
+
 | Platform | Services Explored |
 |----------|-------------------|
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | EC2, S3, IAM, VPC, CloudWatch |
-| ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | GKE, Cloud Run, Firebase, Cloud Functions |
-| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | CDN, DNS, Workers, Zero Trust, Pages |
-| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | Auth, Firestore, Realtime DB, Hosting |
-
-</div>
+| <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> | EC2, S3, IAM, VPC, CloudWatch |
+| <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> | GKE, Cloud Run, Firebase, Cloud Functions |
+| <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/> | CDN, DNS, Workers, Zero Trust, Pages |
+| <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> | Auth, Firestore, Realtime DB, Hosting |
 
 <br/>
 
@@ -164,59 +164,92 @@ motto             = Automate everything. Document always. Never stop learning.
 <div align="center">
 
 ### 🐳 Containers & Orchestration
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" />
-<br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<br/><br/>
 
 ### 🏗️ Infrastructure as Code
-<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
-<br/>
-![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<br/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+<br/><br/>
 
 ### 🔁 CI/CD & Automation
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git&theme=dark" />
-<br/>
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+
+<br/><br/>
 
 ### 📊 Monitoring & Observability
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-<br/>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+<br/><br/>
 
 ### 💻 Languages & Scripting
-<img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
-<br/>
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+
+<br/><br/>
 
 ### 🗄️ Databases & Messaging
+
 <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" />
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
 </div>
 
@@ -244,11 +277,15 @@ Ram Prasad College, Hajipur, Bihar
 
 ### 📜 Certifications
 
-![AWS](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Fundamentals-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
-![Cisco](https://img.shields.io/badge/Cisco%20Networking%20Fundamentals-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<br/>
 
-![NPTEL](https://img.shields.io/badge/NPTEL%20Theory%20of%20Computation-0066CC?style=flat-square&logo=google-scholar&logoColor=white)
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Fundamentals-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NPTEL%20Theory%20of%20Computation-0066CC?style=flat-square&logo=google-scholar&logoColor=white"/>
 
 </td>
 </tr>
@@ -274,7 +311,7 @@ Ram Prasad College, Hajipur, Bihar
 ║  └──────────────┘   └──────────────┘   └──────┬───────┘                ║
 ║                                                │                         ║
 ║                          ┌─────────────────────▼──────────────────┐    ║
-║                          │     ☸️  Kubernetes Cluster (EKS/GKE)    │    ║
+║                          │       Kubernetes Cluster (EKS/GKE)      │    ║
 ║                          │   [ Pod ] <-> [ Pod ] <-> [ Pod ]       │    ║
 ║                          │         Managed by ArgoCD GitOps        │    ║
 ║                          └──────────────┬──────────────────────────┘    ║
@@ -305,14 +342,10 @@ Ram Prasad College, Hajipur, Bihar
 
 <img width="65%" src="https://streak-stats.demolab.com?user=ayu9x&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=888888&border_radius=10" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayu9x&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=a78bfa&point=00d4ff&area=true" />
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayu9x&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=a78bfa&point=00d4ff&area=true" width="100%"/>
 </div>
 
 <br/>
@@ -320,10 +353,7 @@ Ram Prasad College, Hajipur, Bihar
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<!-- Trophies split into 2 rows of 4 for reliability -->
 <img src="https://github-profile-trophy.vercel.app/?username=ayu9x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
-
 </div>
 
 <br/>
