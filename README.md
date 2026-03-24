@@ -1,32 +1,45 @@
 <div align="center">
 
-<!-- Animated Banner - WORKING -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:00d4ff&height=250&section=header&text=Ayush%20Raj&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=☁️%20Cloud%20Engineer%20%7C%20⚙️%20DevOps%20Learner&descAlignY=62&descColor=a78bfa&descSize=20" width="100%"/>
+<!-- HEADER BANNER - WORKING -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:00d4ff&height=250&section=header&text=Ayush%20Raj&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=☁️%20Cloud%20Engineer%20%7C%20⚙️%20DevOps%20Intern&descAlignY=62&descColor=a78bfa&descSize=20" width="100%"/>
 
-<!-- Typing Animation - WORKING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=⚡+Learning+Cloud-Native+Infrastructure;🐳+Exploring+Docker+%26+Kubernetes;🔁+Building+CI%2FCD+Pipelines;🏗️+Infrastructure+as+Code+with+Terraform;🌱+Open+to+Work+%7C+Fresher+DevOps+Engineer" alt="Typing SVG" />
+<br/>
+
+<!-- TYPING ANIMATION - FIXED (using demolab with simpler params) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=🚀+Aspiring+DevOps+%26+Cloud+Engineer;🐳+Docker+%7C+Kubernetes+%7C+Linux;☁️+AWS+%7C+GCP+%7C+Cloudflare;🔁+CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;🏗️+Terraform+%7C+Prometheus+%7C+Grafana;🌱+Open+to+Work+—+Fresher+DevOps+Engineer" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Social Badges -->
+<!-- SOCIAL LINKS -->
 <a href="https://linkedin.com/in/ayush-raj-a11b82219">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://x.com/ayu_9x">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://reddit.com/user/Professional_Tart398">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:rajayush9052@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ayu9x">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ayu9x&label=Profile+Views&color=00d4ff&style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square"/>
-<img src="https://img.shields.io/badge/Based%20in-India%20🇮🇳-ff6b6b?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20🟢-00cc66?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-India%20🇮🇳-ff6b6b?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Grad-June%202026-a78bfa?style=flat-square"/>
 
 </div>
 
@@ -45,34 +58,106 @@ $ cat /etc/ayush.conf
 name              = Ayush Raj
 handle            = @ayu9x
 location          = India 🇮🇳
-role              = Aspiring DevOps & Cloud Engineer
-status            = Fresher | Open to Opportunities
+role              = DevOps Engineer Intern @ Prevoyance IT Solutions
+education         = B.Tech CSE — Parul Institute of Technology (2026)
 
-[learning]
-cloud             = AWS | Azure | GCP | Cloudflare
-containers        = Docker | Kubernetes | Helm
-iac               = Terraform | Ansible
-cicd              = GitHub Actions | Jenkins
+[experience]
+current           = DevOps Intern | Jan 2025 – Present
+focus             = Docker · Kubernetes · CI/CD · AWS · Linux
+
+[skills]
+cloud             = AWS (EC2, IAM, S3, VPC) | GCP | Cloudflare
+containers        = Docker | Docker Compose | Kubernetes
+iac               = Terraform (Basic) | Ansible
+cicd              = GitHub Actions | Jenkins | Git
 monitoring        = Prometheus | Grafana
-languages         = Python | Bash/Shell
+scripting         = Python | Bash
 
-[currently_exploring]
-topics            = GitOps, Service Mesh (Istio), Platform Engineering
-goal              = Build, Automate, Deploy, Repeat.
+[goal]
+target            = Full-time DevOps / Cloud Engineer role 🎯
+motto             = Automate everything. Document always. Never stop learning.
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## ☁️ Cloud Platforms I'm Learning
+## 💼 Work Experience
+
+<table width="100%">
+<tr>
+<td>
+
+### ⚙️ DevOps Engineer Intern
+**Prevoyance IT Solutions Pvt. Ltd., Nagpur** &nbsp;|&nbsp; 📅 Jan 2025 – Present
+
+- 🐳 Deployed containerized applications using **Docker** and **Docker Compose**
+- 🔁 Built and maintained **CI/CD pipelines** using **Jenkins** and **GitHub Actions**
+- ☁️ Assisted in deploying and managing apps on **AWS EC2** instances
+- 🐧 Managed **Linux servers** — monitoring logs and troubleshooting system issues
+- 🤖 Automated deployment workflows and improved delivery efficiency
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ ArtGenesis — NFT Marketplace
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+📅 Jan 2025 – May 2025
+
+- Developed a decentralized NFT marketplace
+- Deployed on **AWS EC2** with **Docker** containerization
+- Implemented secure auth and decentralized storage
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Contract Drafting Platform
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+📅 Jan 2026 – Mar 2026
+
+- AI-powered contract drafting & risk analysis using **GPT-4**
+- REST APIs with **FastAPI** + secure JWT authentication
+- Containerized with **Docker** for scalable deployment
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ☁️ Cloud Platforms
 
 <div align="center">
 
-| Platform | Services I've Explored |
-|----------|----------------------|
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | EC2, S3, Lambda, EKS, IAM, VPC, CloudWatch |
-| ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | AKS, Azure DevOps, App Service, Blob Storage |
+<!-- SKILL ICONS - WORKING CDN -->
+<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
+
+<br/><br/>
+
+| Platform | Services Explored |
+|----------|-------------------|
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | EC2, S3, IAM, VPC, CloudWatch |
 | ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | GKE, Cloud Run, Firebase, Cloud Functions |
 | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | CDN, DNS, Workers, Zero Trust, Pages |
 | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | Auth, Firestore, Realtime DB, Hosting |
@@ -83,51 +168,112 @@ goal              = Build, Automate, Deploy, Repeat.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚙️ My DevOps Toolkit
+## ⚙️ DevOps Toolkit
 
 <div align="center">
 
-### 🐳 Containerization & Orchestration
+### 🐳 Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" />
+
+<br/>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
 
 ### 🏗️ Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
+
+<br/>
+
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+
+<br/>
 
 ### 🔁 CI/CD & Automation
+<img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,git&theme=dark" />
+
+<br/>
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+<br/>
 
 ### 📊 Monitoring & Observability
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+
+<br/>
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-### 🔐 Security & Networking
-![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+<br/>
 
 ### 💻 Languages & Scripting
+<img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
+
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
+<br/>
+
 ### 🗄️ Databases & Messaging
+<img src="https://skillicons.dev/icons?i=mongodb,redis,kafka&theme=dark" />
+
+<br/>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎓 Education & Certifications
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+🏫 **B.Tech – Computer Science & Engineering**
+Parul Institute of Technology, Vadodara
+📅 Expected Graduation: **June 2026**
+
+🏫 **Senior Secondary**
+Ram Prasad College, Hajipur, Bihar
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Certifications
+
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Fundamentals%20Workshop-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+![Cisco](https://img.shields.io/badge/Cisco%20Networking%20Fundamentals-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+![NPTEL](https://img.shields.io/badge/NPTEL%20–%20Theory%20of%20Computation-0066CC?style=flat-square&logo=google-scholar&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -174,9 +320,9 @@ goal              = Build, Automate, Deploy, Repeat.
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayu9x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu9x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu9x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10" />
 
-<br/>
+<br/><br/>
 
 <img width="65%" src="https://streak-stats.demolab.com?user=ayu9x&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=888888&border_radius=10" />
 
@@ -195,7 +341,7 @@ goal              = Build, Automate, Deploy, Repeat.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayu9x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayu9x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%"/>
 </div>
 
 <br/>
@@ -204,35 +350,32 @@ goal              = Build, Automate, Deploy, Repeat.
 
 <div align="center">
 
-## 🐍 My Engineering Mindset
+## 🐍 Engineering Mindset
 
 ```python
 class FresherDevOpsEngineer:
 
     def __init__(self):
         self.name        = "Ayush Raj"
-        self.status      = "Fresher | Actively Learning 🚀"
-        self.stack       = ["Cloud", "Kubernetes", "Terraform", "Python", "Bash"]
+        self.status      = "Intern @ Prevoyance IT Solutions | Graduating 2026"
+        self.stack       = ["Docker", "Kubernetes", "Terraform", "Python", "Bash", "AWS"]
         self.philosophy  = "Learn by doing. Break things. Fix them. Repeat."
-        self.goal        = "Land my first DevOps/Cloud role 🎯"
+        self.goal        = "Land my first full-time DevOps/Cloud role 🎯"
 
     def daily_routine(self):
         return [
             "☕  Coffee first, always",
             "📚  Learn a new cloud concept",
             "🐳  Spin up a Docker container",
-            "📝  Write some Terraform/Bash",
+            "📝  Write some Terraform or Bash",
             "🔍  Debug why K8s pod is CrashLooping",
             "🚀  Push to GitHub & automate it",
             "📖  Read docs till midnight",
         ]
 
-    def motto(self):
-        return "Automate everything. Document always. Never stop learning."
-
 me = FresherDevOpsEngineer()
-print(me.motto())
-# Output: "Automate everything. Document always. Never stop learning."
+print(me.philosophy)
+# Output: "Learn by doing. Break things. Fix them. Repeat."
 ```
 
 <br/>
