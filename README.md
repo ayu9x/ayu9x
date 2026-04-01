@@ -3,8 +3,8 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:00d4ff&height=250&section=header&text=Ayush%20Raj&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=Cloud%20Engineer%20%7C%20DevOps%20Intern&descAlignY=62&descColor=a78bfa&descSize=20" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com/demo/typing.svg?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=Aspiring+DevOps+%26+Cloud+Engineer+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Linux+%F0%9F%90%B3;AWS+%7C+GCP+%7C+Cloudflare+%E2%98%81%EF%B8%8F;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions+%F0%9F%94%81;Terraform+%7C+Prometheus+%7C+Grafana+%F0%9F%8F%97%EF%B8%8F;Open+to+Work+%E2%80%94+Fresher+DevOps+Engineer+%F0%9F%8C%B1" alt="Typing SVG" />
+<!-- TYPING ANIMATION — Fixed: use demolab URL, not herokuapp/demo/typing.svg -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=Aspiring+DevOps+%26+Cloud+Engineer+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Linux+%F0%9F%90%B3;AWS+%7C+GCP+%7C+Cloudflare+%E2%98%81%EF%B8%8F;CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions+%F0%9F%94%81;Terraform+%7C+Prometheus+%7C+Grafana+%F0%9F%8F%97%EF%B8%8F;Open+to+Work+%E2%80%94+Fresher+DevOps+Engineer+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -335,15 +335,18 @@ Ram Prasad College, Hajipur, Bihar
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayu9x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu9x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10" />
+<!-- Fixed: added &cache_seconds=86400 to reduce rate-limit failures -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayu9x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu9x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&cache_seconds=86400" />
 
 <br/><br/>
 
+<!-- Fixed: streak-stats moved to streak-stats.demolab.com -->
 <img width="65%" src="https://streak-stats.demolab.com?user=ayu9x&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=888888&border_radius=10" />
 
 <br/><br/>
 
+<!-- Fixed: activity graph — correct current domain -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayu9x&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=a78bfa&point=00d4ff&area=true" />
 
 </div>
@@ -353,7 +356,8 @@ Ram Prasad College, Hajipur, Bihar
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayu9x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
+<!-- Fixed: added &rank=SECRET,SSS,SS,S,AAA,AA,A,B so low-activity accounts still render trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=ayu9x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 <br/>
