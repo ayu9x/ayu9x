@@ -335,29 +335,44 @@ Ram Prasad College, Hajipur, Bihar
 
 <div align="center">
 
-<!-- Fixed: added &cache_seconds=86400 to reduce rate-limit failures -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayu9x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10&cache_seconds=86400" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu9x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&cache_seconds=86400" />
+<!-- Replaced github-readme-stats (rate-limited) with github-profile-summary-cards — more reliable -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayu9x&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayu9x&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayu9x&theme=tokyonight" />
 
 <br/><br/>
 
-<!-- Fixed: streak-stats moved to streak-stats.demolab.com -->
+<img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayu9x&theme=tokyonight" />
+
+<br/><br/>
+
 <img width="65%" src="https://streak-stats.demolab.com?user=ayu9x&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=888888&border_radius=10" />
 
 <br/><br/>
 
-<!-- Fixed: activity graph — correct current domain -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayu9x&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=a78bfa&point=00d4ff&area=true" />
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🎯 Currently Leveling Up
 
 <div align="center">
-<!-- Fixed: added &rank=SECRET,SSS,SS,S,AAA,AA,A,B so low-activity accounts still render trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ayu9x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+
+<!-- Replaced github-profile-trophy (unreliable) with a skills-progress badge grid -->
+
+| Skill | Level | Status |
+|-------|-------|--------|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ██████████░░ Advanced | ![](https://img.shields.io/badge/80%25-00cc66?style=flat-square) |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ███████░░░░░ Intermediate | ![](https://img.shields.io/badge/60%25-00aaff?style=flat-square) |
+| ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white) | █████░░░░░░░ Learning | ![](https://img.shields.io/badge/45%25-a78bfa?style=flat-square) |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | ███████░░░░░ Intermediate | ![](https://img.shields.io/badge/60%25-00aaff?style=flat-square) |
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ██████████░░ Advanced | ![](https://img.shields.io/badge/80%25-00cc66?style=flat-square) |
+| ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white) | ████████░░░░ Proficient | ![](https://img.shields.io/badge/70%25-00d4ff?style=flat-square) |
+| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) | █████░░░░░░░ Learning | ![](https://img.shields.io/badge/45%25-a78bfa?style=flat-square) |
+| ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ████░░░░░░░░ Beginner | ![](https://img.shields.io/badge/35%25-ff6b6b?style=flat-square) |
+
 </div>
 
 <br/>
